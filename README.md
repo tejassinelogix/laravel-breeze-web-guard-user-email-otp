@@ -5,9 +5,9 @@ Resend OTP functionality implement after timer expired.
 Server Requirements
 =====================================
 <ul>
-  <li>PHP Version => 7.4 or higher</li>
-  <li>Laravel Version => 8 or higher</li>
-  <li>MySQl => 5.7 or higher</li>
+  <li><a href="https://www.php.net/" target="_blank">PHP Version</a> => 7.4 or higher</li>
+  <li><a href="https://laravel.com/docs/master" target="_blank">Laravel Version</a> => 8 or higher</li>
+  <li><a href="https://www.mysql.com/" target="_blank">MySQL Version</a> => 5.7 or higher</li>
 </ul>
 
 Setup Basic Commands
