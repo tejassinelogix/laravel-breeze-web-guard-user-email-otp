@@ -1,12 +1,13 @@
-# laravel-breeze-web-guard-user-email-otp
-Laravel  Breeze Multi-Auth using Web guard
+# Overview
+Laravel multiple Admin and User roles authentication using <a href="https://laravel.com/docs/9.x/starter-kits#laravel-breeze" target="_blank">Laravel Breeze</a> Where User and Admin roles on registeration sent OTP to their email address. 
+Resend OTP functionality implement after timer expired.
 
 Server Requirements
 =====================================
 <ul>
-  <li>PHP Version => 7.4</li>
-  <li>Laravel Version => 8</li>
-  <li>MySQl => 5.7+</li>
+  <li>PHP Version => 7.4 or higher</li>
+  <li>Laravel Version => 8 or higher</li>
+  <li>MySQl => 5.7 or higher</li>
 </ul>
 
 Setup Basic Commands
